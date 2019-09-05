@@ -1,0 +1,1 @@
+#' A pipegraph object records the pipeline topology and state.
