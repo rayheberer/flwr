@@ -1,1 +1,1 @@
-#' Create branches for every possible ordering of steps.
+#' Create branches for every possible ordering of operations.

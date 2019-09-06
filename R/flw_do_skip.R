@@ -1,1 +1,1 @@
-#' Create branches for doing a set of steps, and for skipping them..
+#' Create branches for either doing a set of pipelines, or for skipping them..

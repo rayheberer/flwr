@@ -1,1 +1,1 @@
-#' Run computations for all fresh or modified flows.
+#' Run computations for all fresh or modified pipelines.

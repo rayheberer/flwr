@@ -1,1 +1,1 @@
-#' Produce multiple output flows per input flow.
+#' Take an input flow and pass it to multiple pipelines.
